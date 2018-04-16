@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Caterpillarmao/problem-solving#readme",
   "devDependencies": {
     "jest": "^22.4.3"
+  },
+  "dependencies": {
+    "babel-jest": "^22.4.3",
+    "regenerator-runtime": "^0.11.1"
   }
 }
